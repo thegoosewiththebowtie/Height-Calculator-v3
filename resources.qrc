@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>longlo2go.png</file>
+    </qresource>
+</RCC>
